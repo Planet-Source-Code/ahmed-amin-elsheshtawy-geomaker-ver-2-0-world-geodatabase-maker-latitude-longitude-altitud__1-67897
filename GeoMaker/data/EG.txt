@@ -1,0 +1,200 @@
+EG|Al Minya|Aba al Waqf|28.583|30.767|18
+EG|Al Minya|Aba el-Waqf|28.583|30.767|18
+EG|Kafr ash Shaykh|Abadiyat ar Rawdah|31.073|30.888|13
+EG|Al Buhayrah|Abadiyat Damanhur|31.039|30.361|14
+EG|Al Buhayrah|Abadiyet Damanhur|31.039|30.361|14
+EG|Kafr ash Shaykh|Abadiyet el-Roda|31.073|30.888|13
+EG|Al Minya|Abbad Sharuna|28.6|30.833|32
+EG|Al Minya|Abbad Sharunah|28.6|30.833|32
+EG|Al Buhayrah|Abbas el-Aqqad|30.733|30.233|25
+EG|Qina|Abbasa|25.9|32.783|76
+EG|Ash Sharqiyah|Abbasa|30.539|31.711|9
+EG|Qina|Abbasah|25.9|32.783|76
+EG|Ash Sharqiyah|Abbasia el Gharbia|30.527|31.653|29
+EG|Ash Sharqiyah|Abbasia el Sharqia|30.539|31.711|9
+EG|Al Qahirah|Abbasieh|30.067|31.283|32
+EG|Al Qahirah|Abbasiya|30.067|31.283|32
+EG|Al Qahirah|Abbasiyah|30.067|31.283|32
+EG|Al Qahirah|Abbasiyeh|30.067|31.283|32
+EG|Al Gharbiyah|Abbig|30.881|30.767|6
+EG|Al Gharbiyah|Abbij|30.881|30.767|6
+EG|Kafr ash Shaykh|Abd ar Rahman|31.148|30.766|13
+EG|Al Iskandariyah|Abd el Qadir|31.033|29.817|20
+EG|Al Buhayrah|Abd el-Azim Abu el-Ata|30.717|30.117|30
+EG|Al Jizah|Abd el-Gilil|29.383|31.233|18
+EG|Kafr ash Shaykh|Abd el-Rahman|31.148|30.766|13
+EG|Al Buhayrah|Abd el-Wahhab|31.15|30.333|6
+EG|Al Fayyum|Abgig|29.283|30.817|26
+EG|Al Gharbiyah|Abgul|30.67|31.089|9
+EG|Al Fayyum|Abhit al Hajar|29.417|30.833|25
+EG|Al Fayyum|Abhit el-Hagar|29.417|30.833|25
+EG|Al Buhayrah|Abis|31.135|30.102|1
+EG|Al Buhayrah|Abis al Mustajaddah|31.135|30.102|1
+EG|Al Buhayrah|Abis el-Mustagadda|31.135|30.102|1
+EG|Ad Daqahliyah|Abistu|31.075|31.241|6
+EG|Al Fayyum|Abjij|29.283|30.817|26
+EG|Al Gharbiyah|Abjul|30.67|31.089|9
+EG|Asyut|Abnub|27.267|31.15|47
+EG|Qina|Abnud|26.05|32.783|72
+EG|Al Buhayrah|Abou Hommos|31.104|30.299|15
+EG|Al Iskandariyah|Abou Kir|31.322|30.061|12
+EG|Al Minufiyah|Abshish|30.467|31.083|25
+EG|Bani Suwayf|Absug|28.85|30.883|17
+EG|Bani Suwayf|Absuj|28.85|30.883|17
+EG|Al Minya|Abtuga|28.533|30.75|13
+EG|Al Minya|Abtujah|28.533|30.75|13
+EG|Al Buhayrah|Abtuk|30.936|30.729|11
+EG|Al Jizah|Abu al Abbas|29.533|31.233|21
+EG|Al Minya|Abu al Abbas|28.533|30.75|13
+EG|Al Gharbiyah|Abu al Gharr|30.764|30.854|5
+EG|Al Qaly¯biyah|Abu al Ghayt|30.15|31.183|13
+EG|Al Minya|Abu al Hidr|27.617|30.75|27
+EG|Al Gharbiyah|Abu al Juhur|30.715|31.114|8
+EG|Al Buhayrah|Abu al Khawi|30.594|30.806|6
+EG|Al Buhayrah|Abu al Matamir|30.908|30.178|7
+EG|Al Buhayrah|Abu al Matamir al Bahri|30.919|30.136|10
+EG|Al Gharbiyah|Abu an Najah|31.14|31.171|7
+EG|Al Jizah|Abu an Numrus|29.95|31.2|24
+EG|Aswan|Abu ar Rish Bahri|24.2|32.883|145
+EG|Aswan|Abu ar Rish Qibli|24.15|32.9|90
+EG|Ad Daqahliyah|Abu as Sir|30.917|31.533|11
+EG|Al Buhayrah|Abu ash Shuqaf|30.883|30.414|11
+EG|Ash Sharqiyah|Abu ash Shuquq|30.829|31.603|31
+EG|Al Minufiyah|Abu Awali|30.3|30.933|19
+EG|Al Minufiyah|Abu Awali wa Minshatuha|30.3|30.933|19
+EG|Shamal Sina'|Abu Aweigila|30.833|34.117|101
+EG|Shamal Sina'|Abu Aweigla|30.833|34.117|101
+EG|Al Minya|Abu Aziz|28.433|30.833|13
+EG|Suhaj|Abu Aziz|26.6|31.567|59
+EG|Al Minya|Abu Bisht|28.633|30.717|14
+EG|Ad Daqahliyah|Abu Da'ud al Inab|30.874|31.358|4
+EG|Ad Daqahliyah|Abu Da'ud as Sibakh|30.913|31.577|32
+EG|Janub Sina'|Abu Darba|28.483|33.333|105
+EG|Ad Daqahliyah|Abu Dawud el-Inab|30.874|31.358|4
+EG|Ad Daqahliyah|Abu Dawud el-Sibakh|30.913|31.577|32
+EG|Qina|Abu Dhi'ab|26.183|32.55|62
+EG|Al Fayyum|Abu Diffiya|29.2|30.817|24
+EG|Al Fayyum|Abu Diffiyah|29.2|30.817|24
+EG|Al Fayyum|Abu Dinqash|29.3|30.683|28
+EG|Ad Daqahliyah|Abu Dishisha|31.3|31.355|6
+EG|Qina|Abu Diyab|26.183|32.55|62
+EG|Janub Sina'|Abu Dura|28.483|33.333|105
+EG|Janub Sina'|Abu Durba|28.483|33.333|105
+EG|Janub Sina'|Abu Durbah|28.483|33.333|105
+EG|Al Buhayrah|Abu Durra|31.007|30.621|7
+EG|Al Buhayrah|Abu Durrah|31.007|30.621|7
+EG|Al Minya|Abu el Hidr|27.617|30.75|27
+EG|Al Buhayrah|Abu el Matamir|30.908|30.178|7
+EG|Aswan|Abu el Rish Bahari|24.2|32.883|145
+EG|Aswan|Abu el Rish Qibli|24.15|32.9|90
+EG|Ash Sharqiyah|Abu el Shequq|30.829|31.603|31
+EG|Al Jizah|Abu el-Abbas|29.533|31.233|21
+EG|Al Gharbiyah|Abu el-Gharr|30.764|30.854|5
+EG|Al Qaly¯biyah|Abu el-Gheit|30.15|31.183|13
+EG|Al Gharbiyah|Abu el-Guhur|30.715|31.114|8
+EG|Al Buhayrah|Abu el-Khaui|30.594|30.806|6
+EG|Al Buhayrah|Abu el-Khawi|30.594|30.806|6
+EG|Al Buhayrah|Abu el-Khazr|31.103|30.363|15
+EG|Al Buhayrah|Abu el-Matamir|30.908|30.178|7
+EG|Al Buhayrah|Abu el-Matamir el-Bahari|30.919|30.136|10
+EG|Al Gharbiyah|Abu el-Nagah|31.14|31.171|7
+EG|Al Jizah|Abu el-Numrus|29.95|31.2|24
+EG|Al Buhayrah|Abu el-Shugaf|30.883|30.414|11
+EG|Al Buhayrah|Abu el-Shuqaf|30.883|30.414|11
+EG|Ash Sharqiyah|Abu el-Shuquq|30.829|31.603|31
+EG|Ad Daqahliyah|Abu el-Sir|30.917|31.533|11
+EG|Al Buhayrah|Abu elwet-Matamir|30.908|30.178|7
+EG|Al Jizah|Abu en Numrus|29.95|31.2|24
+EG|Aswan|Abu er Rish Bahari|24.2|32.883|145
+EG|Aswan|Abu er Rish Qibli|24.15|32.9|90
+EG|Ash Sharqiyah|Abu esh Shuquq|30.829|31.603|31
+EG|Al Buhayrah|Abu esh-Shuqaf|30.883|30.414|11
+EG|Al Jizah|Abu Fa'r|29.517|31.233|23
+EG|Ad Daqahliyah|Abu Galal|31.284|31.563|6
+EG|Al Fayyum|Abu Gandir|29.233|30.683|18
+EG|Al Jizah|Abu Ghalib|30.267|30.933|16
+EG|Kafr ash Shaykh|Abu Ghanima|31.278|30.64|16
+EG|Kafr ash Shaykh|Abu Ghanimah|31.278|30.64|16
+EG|Al Bahr al Ahmar|Abu Ghusun|24.45|35.2|8
+EG|Al Fayyum|Abu Ginshu|29.35|30.683|2
+EG|Al Minya|Abu Girg|28.533|30.783|28
+EG|Al Minya|Abu Gurgas|27.933|30.833|30
+EG|Ash Sharqiyah|Abu Hammad|30.538|31.67|28
+EG|Ash Sharqiyah|Abu Hammad al Mahattah|30.533|31.667|23
+EG|Ash Sharqiyah|Abu Hammad el Mahatta|30.538|31.67|28
+EG|Aswan|Abu Handal|22.633|32.267|173
+EG|Ash Sharqiyah|Abu Hariz|30.883|31.685|12
+EG|Aswan|Abu Hawr|23.483|32.883|173
+EG|Al Isma'iliyah|Abu Hileifa|30.535|31.826|33
+EG|Al Buhayrah|Abu Himar al Kabir|30.933|30.483|10
+EG|Ash Sharqiyah|Abu Hireiz|30.883|31.685|12
+EG|Qina|Abu Hizam|26.117|32.35|58
+EG|Aswan|Abu Hor|23.483|32.883|173
+EG|Al Isma'iliyah|Abu Hulayfah|30.535|31.826|33
+EG|Al Buhayrah|Abu Humar el-Kebir|30.933|30.483|10
+EG|Al Buhayrah|Abu Huminus|31.104|30.299|15
+EG|Al Buhayrah|Abu Hummus|31.104|30.299|15
+EG|Al Buhayrah|Abu Humus|31.104|30.299|15
+EG|Al Fayyum|Abu Jandir|29.233|30.683|18
+EG|Al Fayyum|Abu Jinshu|29.35|30.683|2
+EG|Al Minya|Abu Jirj|28.533|30.783|28
+EG|Ash Sharqiyah|Abu Kabir|30.729|31.665|8
+EG|Ash Sharqiyah|Abu Kebir|30.729|31.665|8
+EG|Al Minya|Abu Kerkae|27.933|30.833|30
+EG|Asyut|Abu Khalil|27.367|30.867|38
+EG|Asyut|Abu Khurs|27|31.25|31
+EG|Al Minya|Abu Kirkas|27.933|30.833|30
+EG|Al Fayyum|Abu Ksah|29.383|30.7|21
+EG|Al Minufiyah|Abu Kullus|30.605|30.843|5
+EG|Asyut|Abu Kuraiyim|27.6|30.7|33
+EG|Asyut|Abu Kurayyim|27.6|30.7|33
+EG|Kafr ash Shaykh|Abu Mandur|31.214|30.7|15
+EG|Al Buhayrah|Abu Mangug|30.933|30.735|10
+EG|Al Buhayrah|Abu Manjuj|30.933|30.735|10
+EG|Qina|Abu Manna Bahari|26.15|32.417|71
+EG|Qina|Abu Manna Bahri|26.15|32.417|71
+EG|Qina|Abu Manna Gharb|26.15|32.433|70
+EG|Qina|Abu Manna Qibli|26.15|32.467|63
+EG|Qina|Abu Manna Sharq|26.167|32.467|74
+EG|Al Gharbiyah|Abu Mashhur|30.697|31.048|17
+EG|Al Buhayrah|Abu Masud|30.948|30.508|14
+EG|Al Buhayrah|Abu Nish-Shaba|30.367|30.85|24
+EG|Al Buhayrah|Abu Nushshabah|30.367|30.85|24
+EG|Ash Sharqiyah|Abu Omar|30.6|31.717|18
+EG|Al Minya|Abu Qalta|27.8|30.733|34
+EG|Al Minya|Abu Qaltah|27.8|30.733|34
+EG|Ad Daqahliyah|Abu Qaramit|30.837|31.541|20
+EG|Al Jizah|Abu Qatatah|30.004|31.125|19
+EG|Al Iskandariyah|Abu Qir|31.322|30.061|12
+EG|Al Minya|Abu Qurqas|27.933|30.833|30
+EG|Al Buhayrah|Abu Rabih|31.221|30.13|7
+EG|Al Jizah|Abu Ragwan|29.783|31.267|23
+EG|Al Jizah|Abu Ragwan|29.767|31.267|18
+EG|Al Jizah|Abu Ragwan el-Bahari|29.783|31.267|23
+EG|Al Jizah|Abu Ragwan el-Qibli|29.767|31.267|18
+EG|Al Jizah|Abu Rajwan al Bahri|29.783|31.267|23
+EG|Al Jizah|Abu Rajwan al Qibli|29.767|31.267|18
+EG|Al Minufiyah|Abu Raqaba|30.271|31.038|27
+EG|Al Minufiyah|Abu Raqabah wa Kafruha|30.271|31.038|27
+EG|Al Jizah|Abu Rauwash|30.046|31.093|27
+EG|Al Jizah|Abu Rawwash|30.046|31.093|27
+EG|Al Jizah|Abu Roash|30.046|31.093|27
+EG|Janub Sina'|Abu Rudays|28.9|33.167|0
+EG|Janub Sina'|Abu Rudeis|28.9|33.167|0
+EG|Al Jizah|Abu Ruwash|30.046|31.093|27
+EG|Al Jizah|Abu Ruwaysh|29.667|31.233|19
+EG|Al Jizah|Abu Ruweish|29.667|31.233|19
+EG|Shamal Sina'|Abu Saht|31.004|32.918|1
+EG|Al Fayyum|Abu Salih|29.183|31.183|23
+EG|Al Buhayrah|Abu Samada|30.797|30.589|11
+EG|Al Minufiyah|Abu Saneita|30.405|31.108|21
+EG|Bani Suwayf|Abu Sharban|28.967|30.95|26
+EG|Ash Sharqiyah|Abu Shekuk|30.829|31.603|31
+EG|Matruh|Abu Shineina|30.817|29.167|23
+EG|Matruh|Abu Shunaynah|30.817|29.167|23
+EG|Bani Suwayf|Abu Shurban|28.967|30.95|26
+EG|Al Minya|Abu Sidhum|28.333|30.617|36
+EG|Al Buhayrah|Abu Sieifa|30.859|30.526|10
+EG|Al Buhayrah|Abu Simadah|30.797|30.589|11
+EG|Aswan|Abu Simbel|22.367|31.633|192
+EG|Aswan|Abu Simbil|22.367|31.633|192
