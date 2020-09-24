@@ -1,0 +1,200 @@
+US|Arizona|A and F Trailer Court|0|33.296|-111.841
+US|Arizona|A and F Trailer Park|0|33.494|-112.11
+US|Utah|A and K (subdivision)|0|40.879|-111.899
+US|New Jersey|A Country Place|0|40.088|-74.229
+US|Texas|A Sherton|0|28.442|-99.76
+US|Arizona|A-1 Trailer Park|0|33.449|-112.008
+US|Arkansas|Aa Junction|0|36.08|-90.94
+US|Georgia|Aaron|0|32.568|-81.993
+US|Indiana|Aaron|0|38.883|-85.126
+US|Kentucky|Aaron|0|36.813|-85.181
+US|Missouri|Aaron|0|38.423|-94.154
+US|North Carolina|Aarons Corner|0|36.538|-80.296
+US|Virginia|Aarons Creek|0|36.661|-78.722
+US|Pennsylvania|Aaronsburg|0|40.9|-77.454
+US|Ohio|Aaronsburg (historical)|0|40.398|-82.695
+US|Missouri|Abadyl|0|37.038|-92.947
+US|Ohio|Abanaka|0|40.76|-84.698
+US|Alabama|Abanda|0|33.101|-85.53
+US|Colorado|Abarr|0|39.851|-102.707
+US|Missouri|Abattis (historical)|0|38.817|-91.392
+US|Georgia|Abba|0|31.757|-83.371
+US|California|Abbato (historical)|0|37.054|-120.827
+US|Alabama|Abbeville|0|31.572|-85.251
+US|Georgia|Abbeville|0|31.992|-83.307
+US|Louisiana|Abbeville|0|29.974|-92.134
+US|Mississippi|Abbeville|0|34.503|-89.503
+US|South Carolina|Abbeville|0|34.178|-82.379
+US|Idaho|Abbey (historical)|0|42.632|-114.755
+US|Georgia|Abbey Hill (subdivision)|0|34.075|-84.069
+US|Colorado|Abbeyville|0|38.778|-106.492
+US|Ohio|Abbeyville|0|41.197|-81.887
+US|Louisiana|Abbie Joe (historical)|0|30.492|-93.303
+US|Illinois|Abbot|0|37.557|-88.699
+US|Alabama|Abbot Springs|0|33.361|-86.482
+US|Maine|Abbot Village|0|45.186|-69.453
+US|Wisconsin|Abbotsford|0|44.946|-90.316
+US|Pennsylvania|Abbotsford Homes|0|40.013|-75.175
+US|Arkansas|Abbott|0|35.073|-94.194
+US|California|Abbott|0|39.021|-121.624
+US|Iowa|Abbott|0|42.485|-93.066
+US|Mississippi|Abbott|0|33.68|-88.774
+US|Nebraska|Abbott|0|40.975|-98.481
+US|New Mexico|Abbott|0|36.306|-104.258
+US|Pennsylvania|Abbott|0|41.582|-77.785
+US|Texas|Abbott|0|31.885|-97.073
+US|Virginia|Abbott|0|37.429|-80.14
+US|West Virginia|Abbott|0|38.922|-80.322
+US|Iowa|Abbott Crossing (historical)|0|42.493|-93.071
+US|Rhode Island|Abbott Run|0|41.955|-71.389
+US|New York|Abbotts|0|42.257|-78.319
+US|Delaware|Abbotts Mill|0|38.886|-75.477
+US|Maine|Abbotts Mill|0|44.476|-70.633
+US|North Carolina|Abbottsburg|0|34.517|-78.725
+US|Georgia|Abbottsford|0|33.047|-85.18
+US|Michigan|Abbottsford|0|43.02|-82.633
+US|Pennsylvania|Abbottstown|0|39.886|-76.985
+US|Ohio|Abbottsville|0|40.038|-84.578
+US|Virginia|Abbs Valley|0|37.244|-81.453
+US|West Virginia|Abbs Valley (historical)|0|37.304|-81.303
+US|Louisiana|Abby Plantation|0|29.812|-90.841
+US|Kansas|Abbyville|0|37.971|-98.204
+US|Arkansas|Abco|0|34.349|-92.829
+US|Mississippi|Abdan|0|32.614|-89.567
+US|Pennsylvania|Abdera|0|41.031|-77.561
+US|Ohio|Abe|0|40.166|-84.374
+US|Florida|Abe Springs|0|30.366|-85.148
+US|New Mexico|Abe Yarbrough|0|31.652|-108.845
+US|North Carolina|Abecrumby (historical)|0|35.144|-80.14
+US|Alabama|Abel|0|33.549|-85.713
+US|Nebraska|Abel|0|41.074|-96.355
+US|Arkansas|Abeles (historical)|0|34.433|-91.615
+US|Maryland|Abell|0|38.254|-76.744
+US|Texas|Abell|0|35.393|-101.458
+US|Virginia|Abell (historical)|0|37.071|-78.851
+US|Texas|Abell City|0|31.25|-102.658
+US|New York|Abell Corners|0|42.898|-75.829
+US|Wisconsin|Abells Corners|0|42.726|-88.543
+US|Louisiana|Aben|0|30.108|-90.943
+US|Georgia|Abercorn Heights|0|32.033|-81.107
+US|Alabama|Abercrombie|0|32.849|-87.165
+US|North Dakota|Abercrombie|0|46.448|-96.73
+US|Texas|Abercrombie|0|29.032|-95.753
+US|Texas|Abercrombie|0|30.339|-97.725
+US|Arkansas|Aberdeen|0|34.603|-91.342
+US|California|Aberdeen|0|36.978|-118.253
+US|Georgia|Aberdeen|0|33.409|-84.602
+US|Idaho|Aberdeen|0|42.944|-112.838
+US|Indiana|Aberdeen|0|38.905|-84.988
+US|Kentucky|Aberdeen|0|37.254|-86.682
+US|Maryland|Aberdeen|0|39.509|-76.164
+US|Mississippi|Aberdeen|0|33.825|-88.544
+US|Montana|Aberdeen|0|45.054|-107.356
+US|North Carolina|Aberdeen|0|35.131|-79.43
+US|Ohio|Aberdeen|0|38.656|-83.761
+US|Pennsylvania|Aberdeen|0|40.177|-76.624
+US|Pennsylvania|Aberdeen|0|41.359|-75.494
+US|South Dakota|Aberdeen|0|45.465|-98.486
+US|Texas|Aberdeen|0|35.038|-100.149
+US|Washington|Aberdeen|0|46.976|-123.815
+US|West Virginia|Aberdeen|0|39.058|-80.316
+US|Arkansas|Aberdeen (historical)|0|35.361|-91.005
+US|Massachusetts|Aberdeen (subdivision)|0|42.344|-71.15
+US|Georgia|Aberdeen Estates|0|33.663|-84.813
+US|Virginia|Aberdeen Gardens|0|37.032|-76.399
+US|Maryland|Aberdeen Hills (subdivision)|0|39.526|-76.177
+US|Idaho|Aberdeen Junction|0|43.223|-112.47
+US|Mississippi|Aberdeen Junction|0|33.033|-89.878
+US|Washington|Aberdeen Junction|0|46.979|-123.762
+US|Tennessee|Aberdeen Park|0|35.928|-86.52
+US|Alabama|Aberfoil|0|32.07|-85.688
+US|Texas|Aberfoyle|0|33.305|-96.025
+US|Alabama|Abernant|0|33.29|-87.198
+US|Alabama|Abernathy|0|33.651|-85.408
+US|Texas|Abernathy|0|33.832|-101.843
+US|Mississippi|Abernathy (historical)|0|32.392|-89.847
+US|Tennessee|Abernathy (historical)|0|35.806|-89.472
+US|Oregon|Abernathy Station (historical)|0|43.16|-123.982
+US|Georgia|Abernathys Mill|0|33.864|-85.21
+US|Virginia|Abert|0|37.498|-79.226
+US|New Jersey|Abertown|0|41.251|-74.785
+US|Missouri|Abesville|0|36.84|-93.371
+US|Colorado|Abeyta|0|37.08|-104.186
+US|New Mexico|Abeytas|0|34.468|-106.811
+US|Georgia|Abide Awhile|0|33.581|-83.964
+US|Nebraska|Abie|0|41.334|-96.949
+US|Tennessee|Abiff|0|35.976|-87.318
+US|Kentucky|Abigail|0|38.577|-83.982
+US|Alabama|Abihka (historical)|0|33.3|-86.161
+US|California|Abilene|0|36.146|-119.053
+US|Georgia|Abilene|0|33.649|-85.05
+US|Kansas|Abilene|0|38.917|-97.214
+US|Texas|Abilene|0|32.449|-99.733
+US|Virginia|Abilene|0|37.141|-78.544
+US|Iowa|Abingdon|0|41.082|-92.139
+US|Illinois|Abingdon|0|40.804|-90.402
+US|Maryland|Abingdon|0|39.462|-76.279
+US|North Carolina|Abingdon|0|35.911|-81.596
+US|South Carolina|Abingdon|0|34.992|-81.5
+US|Virginia|Abingdon|0|36.71|-81.978
+US|Maryland|Abingdon Reserve|0|39.466|-76.283
+US|Connecticut|Abington|0|41.861|-72.007
+US|Indiana|Abington|0|39.733|-84.963
+US|Louisiana|Abington|0|32.111|-93.479
+US|Massachusetts|Abington|0|42.105|-70.946
+US|Pennsylvania|Abington|0|40.121|-75.118
+US|Texas|Abington|0|34.544|-100.207
+US|North Carolina|Abington (subdivision)|0|36.177|-80.104
+US|Georgia|Abington Green|0|34.052|-84.583
+US|Alabama|Abington Green (subdivision)|0|33.458|-86.757
+US|Georgia|Abington Park (subdivision)|0|33.852|-84
+US|Maryland|Abington Shores|0|38.585|-76.668
+US|New Mexico|Abiquiu|0|36.207|-106.318
+US|Louisiana|Abita Springs|0|30.478|-90.038
+US|Colorado|Able|0|38.061|-102.869
+US|Ohio|Abledell (subdivision)|0|40.018|-81.624
+US|New Jersey|Ablett Village|0|39.949|-75.103
+US|North Carolina|Abner|0|35.498|-79.908
+US|Texas|Abner|0|32.628|-96.191
+US|Arkansas|Abner (historical)|0|34.183|-93.711
+US|Mississippi|Abney|0|34.213|-88.487
+US|West Virginia|Abney|0|37.688|-81.204
+US|Louisiana|Abney Country Air (subdivision)|0|30.281|-89.721
+US|South Carolina|Abney Crossroads|0|34.509|-80.514
+US|Louisiana|Abney Estates (subdivision)|0|30.257|-89.783
+US|Missouri|Abo|0|37.698|-92.465
+US|New Mexico|Abo|0|34.456|-106.333
+US|Indiana|Aboite|0|41.001|-85.318
+US|North Carolina|Abotts Creek (historical)|0|36.005|-80.085
+US|Arizona|Abra|0|34.902|-112.446
+US|Utah|Abraham|0|39.397|-112.717
+US|West Virginia|Abraham|0|37.791|-80.955
+US|Pennsylvania|Abrahams|0|40.113|-75.378
+US|Pennsylvania|Abrahamsville|0|41.764|-75.124
+US|Texas|Abram|0|26.199|-98.411
+US|Oregon|Abrams|0|43.684|-122.956
+US|Wisconsin|Abrams|0|44.779|-88.06
+US|California|Abrams Lake Mobile Estates|0|41.338|-122.354
+US|New York|Abrams Landing|0|40.993|-72.106
+US|Utah|Abrams Way (subdivision)|0|41.039|-111.908
+US|Georgia|Absalom (historical)|0|34.273|-83.915
+US|North Dakota|Absaraka|0|46.978|-97.394
+US|Montana|Absarokee|0|45.521|-109.442
+US|New Jersey|Absecon|0|39.428|-74.496
+US|New Jersey|Absecon Highlands|0|39.447|-74.474
+US|Kentucky|Absher|0|37.169|-85.259
+US|Montana|Absher (historical)|0|46.558|-107.983
+US|North Carolina|Abshers|0|36.369|-81.111
+US|Texas|Abshier Settlement|0|29.915|-94.624
+US|Idaho|Abstein Place|0|44.971|-115.486
+US|New Mexico|Abuelo|0|35.945|-105.36
+US|Indiana|Abydel|0|38.571|-86.561
+US|Ohio|Academia|0|40.414|-82.468
+US|Pennsylvania|Academia|0|40.496|-77.476
+US|Indiana|Academie|0|41.171|-85.146
+US|Pennsylvania|Academy|0|39.906|-75.263
+US|South Dakota|Academy|0|43.456|-99.079
+US|Texas|Academy|0|30.981|-97.341
+US|Arkansas|Academy (historical)|0|33.801|-93.733
+US|Georgia|Academy Acres|0|30.896|-83.249
+US|Maryland|Academy Acres|0|39.459|-77.034

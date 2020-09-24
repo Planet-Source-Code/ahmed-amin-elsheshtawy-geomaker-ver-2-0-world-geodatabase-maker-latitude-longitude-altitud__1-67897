@@ -1,0 +1,200 @@
+AF|Laghman|A zizkhan Kalay|34.5|70.35|583
+AF|Paktia|A'ikhel|33.467|69.641|2321
+AF|Ghazni|A'in|33.25|68.1|2140
+AF|Paktika|Aaqadari Yosufkhel|33.05|68.633|2441
+AF|Badghis|Ab Bakhsh|34.867|63.267|1361
+AF|Bamian|Ab Bala|34.717|67.733|3127
+AF|Ghazni|Ab Band|32.983|67.967|2118
+AF|Ghowr|Ab Barik|34.65|66.25|2677
+AF|Faryab|Ab Barik|35.567|65.1|2188
+AF|Takhar|Ab Bazan|36.917|69.933|771
+AF|Oruzgan|Ab Bordeh|32.6|65.783|1247
+AF|Oruzgan|Ab Burdah|32.6|65.783|1247
+AF|Oruzgan|Ab Burdeh|32.6|65.783|1247
+AF|Lowgar|Ab Chekan|33.896|69.209|2520
+AF|Badakhshan|Ab Chenar|36.883|70.15|1186
+AF|Sare Pol|Ab Dara|36.283|66.85|740
+AF|Badakhshan|Ab Darrah|38.1|70.467|1477
+AF|Ghowr|Ab Dokan|33.583|63.5|1953
+AF|Badakhshan|Ab Gach|36.983|72.7|3448
+AF|Badakhshan|Ab Gaj|36.983|72.7|3448
+AF|Herat|Ab Garmi|35.433|61.383|664
+AF|Parvan|Ab Gerd|35.017|68.95|1866
+AF|Herat|Ab Gozar|35.283|61.45|888
+AF|AF12|Ab Kalak|37.05|66.033|275
+AF|Herat|Ab Khaneh|34.183|63.167|1759
+AF|Vardak|Ab Khaneh|34.333|68.667|2651
+AF|Vardak|Ab Khaneh-ye Chinza'i|34.333|68.667|2651
+AF|Badghis|Ab Khoda'i|34.883|62.733|1254
+AF|Badghis|Ab Khudai|34.883|62.733|1254
+AF|Badghis|Ab Khvor|34.8|63.783|1325
+AF|Baghlan|Ab Khvorak|35.817|68.4|1348
+AF|Samangan|Ab Khvorak|35.5|67.75|2657
+AF|Samangan|Ab Khvorak-e Bala|35.5|67.733|2590
+AF|Samangan|Ab Khvorak-e Pa'in|35.5|67.75|2657
+AF|AF12|Ab Kolok|37.05|66.033|275
+AF|Farah|Ab Mazar|33.333|63.75|1907
+AF|Herat|Ab Mazar|34.95|61.533|1002
+AF|Baghlan|Ab Sarina|36.067|68.95|975
+AF|Takhar|Ab Sarina|36.783|69.367|638
+AF|Badghis|Ab Shureh|35.183|63.017|691
+AF|Badghis|Ab Sora|35.183|63.017|691
+AF|Badakhshan|Ab Zumc|37.533|70.533|2562
+AF|Badakhshan|Ab Zumch|37.533|70.533|2562
+AF|Herat|Ab-e Aref|35.117|61.483|971
+AF|Herat|Ab-e Barik|34.733|62.417|1399
+AF|Badghis|Ab-e Barik|34.65|63.767|2052
+AF|Badghis|Ab-e Barik|34.883|62.717|1227
+AF|Badghis|Ab-e Barik-e Qowdi|34.883|62.717|1227
+AF|Herat|Ab-e Deraz|35.4|61.35|680
+AF|Herat|Ab-e Feydzad|35.1|61.483|1035
+AF|Badghis|Ab-e Garmak|35.717|63.85|735
+AF|Badghis|Ab-e Garmak|35|63.133|881
+AF|Badghis|Ab-e Kamari|35.083|63.05|799
+AF|Herat|Ab-e Sefid|34.95|61.6|982
+AF|Badakhshan|Ab-e Shir Ahmad|36.833|70.35|1718
+AF|Kondoz|Ab-e Shur|36.933|69.317|785
+AF|Sare Pol|Ab-e Tall|36.483|67.217|1900
+AF|Badakhshan|Ab-e-sher-Amad|36.833|70.35|1718
+AF|Kondoz|Ab-e-Shor|36.933|69.317|785
+AF|Badghis|Ab-i Bark-i Qudi|34.883|62.717|1227
+AF|Herat|Ab-i-Barik|34.733|62.417|1399
+AF|Badghis|Ab-i-Barik-i-Ghalmani|34.9|62.7|1187
+AF|Badghis|Ab-i-Barik-i-Qudi|34.883|62.717|1227
+AF|Badghis|Ab-i-Garmak|35|63.133|881
+AF|Badghis|Ab-i-Gharmak|35.717|63.85|735
+AF|Badghis|Ab-i-Kamari|35.083|63.05|799
+AF|Herat|Ab-i-Safed|34.95|61.6|982
+AF|Sare Pol|Ab-i-Tal|36.483|67.217|1900
+AF|Ghowr|Ab-paran|33.333|64.65|2631
+AF|Helmand|Aba|32.233|64.667|1038
+AF|Farah|Aba|32.667|62.25|701
+AF|Farah|Abad|32.633|62.467|745
+AF|Ghowr|Abak|34.617|66.633|3207
+AF|Vardak|Abas|34.233|68.6|2919
+AF|Zabol|Abas Khel|31.967|67.583|2032
+AF|Oruzgan|Abasali|32.8|65.95|1531
+AF|Vardak|Abash|34.233|68.6|2919
+AF|Vardak|Abaskusta|34.317|67.633|2886
+AF|Ghazni|Abay|33.383|67.483|3259
+AF|Zabol|Abazey|31.9|67.733|2193
+AF|Ghazni|Abbas|33.317|67.633|3113
+AF|Zabol|Abbas Kheyl|31.967|67.583|2032
+AF|Vardak|Abbas Koshteh|34.317|67.633|2886
+AF|Oruzgan|Abbasali|32.8|65.95|1531
+AF|Helmand|Abbasha-ye Helmand|31.783|64.55|882
+AF|Paktika|Abbaskhei Samali|32.817|69.117|2383
+AF|Paktika|Abbaskheyl-e Shemali|32.817|69.117|2383
+AF|Helmand|Abbazha-i-Helmand|31.783|64.55|882
+AF|Ghowr|Abbedak|33.467|64.3|2217
+AF|Ghowr|Abbidak|33.467|64.3|2217
+AF|Oruzgan|Abburda|32.6|65.783|1247
+AF|Lowgar|Abcakan|33.896|69.209|2520
+AF|Lowgar|Abchakan|33.896|69.209|2520
+AF|Zabol|Abd es Salam|32.783|67.017|2652
+AF|Badghis|Abd ol Ahad Bay Kamari|35.083|63.167|865
+AF|Kandahar|Abd ol Ahadkhan Kariz|31.833|65.85|1116
+AF|Helmand|Abd ol Alim Kalay|31.7|64.283|806
+AF|Kandahar|Abd ol Baqi|32.083|65.85|1472
+AF|Helmand|Abd ol Habib Kalay|30.717|64.1|674
+AF|Herat|Abd ol Hakim|34.733|62.233|1429
+AF|Badghis|Abd ol Haqq|35.417|63.383|536
+AF|Badghis|Abd ol Haqq|35.25|63.483|744
+AF|Takhar|Abd ol Hezar Beyg|37.467|69.7|595
+AF|Badghis|Abd ol Karim Khan|34.683|62.517|1929
+AF|Nimruz|Abd ol Majid Khan|31.15|62.017|470
+AF|Samangan|Abd ol Malek|35.917|68|1737
+AF|Zabol|Abd ol Qader|32.2|67.25|1884
+AF|Zabol|Abd ol Qader Kalay|32.2|67.25|1884
+AF|Zabol|Abd ol Qayum Kalay|32.433|66.883|1714
+AF|Nimruz|Abd Ol Samad Khan|31.217|61.767|477
+AF|Nimruz|Abd ol Samad Khan|31.217|62.167|481
+AF|Kandahar|Abd ol Vahed|32.1|65.85|1509
+AF|Ghazni|Abd or Rahim|33.283|68.4|2061
+AF|Ghazni|Abd or Rahimkheyl|33.9|68.433|2692
+AF|Laghman|Abd or Rahimzi|34.433|69.9|1950
+AF|Lowgar|Abd or Rahman|34.233|69.25|2146
+AF|Kabol|Abd or Rahman Kala|34.383|68.983|2433
+AF|Zabol|Abd or Rahman Kalacheh|32.05|66.833|1503
+AF|Nimruz|Abd or Rahman Kargud|31.033|61.883|478
+AF|Nimruz|Abd or Rahman Yaqub|30.933|61.867|479
+AF|Zabol|Abd or Rahmankheyl|32.067|67.783|2225
+AF|Zabol|Abd or Rahmankheyl Kariz|32.083|67.783|2193
+AF|Kandahar|Abd or Rahmanzay|31.317|66.167|1238
+AF|Helmand|Abd or Rashid Kariz|31.8|64.483|835
+AF|Oruzgan|Abd or Razzaq|32.633|66.217|1982
+AF|Nimruz|Abd os Samad Khan|31.217|62.167|481
+AF|Nimruz|Abd os Samad Khan|31.217|61.767|477
+AF|Paktika|Abdakay|32.233|68.233|2269
+AF|Faryab|Abdal-e Pasha Khan|35.7|64.55|1276
+AF|Faryab|Abdal-i-Pasa Khan|35.7|64.55|1276
+AF|Parvan|Abdallahkhel|35.217|69.583|2943
+AF|Kondoz|Abdan|36.633|68.55|531
+AF|Sare Pol|Abdan|36.05|66.1|874
+AF|Balkh|Abdan-e Shebaqli|36.7|68.017|314
+AF|Kondoz|Abdan-i-Mir Alam|36.65|68.367|395
+AF|Balkh|Abdan-i-Sebaqli|36.7|68.017|314
+AF|Ghazni|Abdana|33.3|67.183|2922
+AF|Ghazni|Abdaneh|33.3|67.183|2922
+AF|Ghazni|Abdara|33.65|68|3294
+AF|Vardak|Abdara|34.383|67.883|2914
+AF|Sare Pol|Abdara|35.75|66.55|2630
+AF|Sare Pol|Abdarreh|36.283|66.85|740
+AF|Sare Pol|Abdarreh|35.75|66.55|2630
+AF|Ghazni|Abdarreh|33.65|68|3294
+AF|Vardak|Abdarreh|34.383|67.883|2914
+AF|Badakhshan|Abdaw|36.617|71.183|2356
+AF|Faryab|Abdol|35.65|64.6|1579
+AF|Helmand|Abdol|31.683|64.3|794
+AF|Oruzgan|Abdol Kalay|32.65|66.167|1797
+AF|Paktika|Abdollah|32.65|68.783|2465
+AF|Herat|Abdollah Jan|34.95|61.683|925
+AF|Ghazni|Abdollah Kala|32.883|67.5|2315
+AF|Paktika|Abdollah Kala|32.067|68.1|2338
+AF|Zabol|Abdollah Kalay|32.8|67.033|2668
+AF|Zabol|Abdollah Kalay|32.617|66.7|2320
+AF|Kandahar|Abdollah Kalay|31.617|66.15|1171
+AF|Kandahar|Abdollah Kalay|31.283|65.933|1042
+AF|Nimruz|Abdollah Khan|31.1|61.85|479
+AF|Paktika|Abdollah Khan|32.85|68.567|2089
+AF|Herat|Abdollah Khan|34.967|61.683|910
+AF|Helmand|Abdollahjan Kalay|31.1|64.167|718
+AF|Zabol|Abdollahjan Kalay|32.7|66.7|2758
+AF|Badghis|Abdollahkhan|34.783|63.5|1670
+AF|Zabol|Abdollahkhan Kalay|32.217|67.283|1902
+AF|Paktika|Abdollahkhan Kalay|32.85|68.517|2073
+AF|Kandahar|Abdollahkhan Kalay|31.667|66.883|1545
+AF|Kandahar|Abdollahkhan Kalay|31.567|66.367|1206
+AF|Parvan|Abdollahkheyl|35.217|69.583|2943
+AF|Faryab|Abdul|35.65|64.6|1579
+AF|Helmand|Abdul|31.683|64.3|794
+AF|Badghis|Abdul Ahad Bay Kamari|35.083|63.167|865
+AF|Kandahar|Abdul AhadKhan Karez|31.833|65.85|1116
+AF|Helmand|Abdul Alim Kalay|31.7|64.283|806
+AF|Kandahar|Abdul Baqi|32.083|65.85|1472
+AF|Paktika|Abdul Bari Kor|32.5|68.117|1975
+AF|Herat|Abdul Hakim|34.733|62.233|1429
+AF|Badghis|Abdul Haq|35.417|63.383|536
+AF|Badghis|Abdul Haq|35.25|63.483|744
+AF|Takhar|Abdul Hazar Beg|37.467|69.7|595
+AF|Oruzgan|Abdul Kalay|32.65|66.167|1797
+AF|Badghis|Abdul Karim Khan|34.683|62.517|1929
+AF|Badghis|Abdul Karim Taraki|35.083|63.25|917
+AF|Helmand|Abdul Masek|32.383|65|1088
+AF|Zabol|Abdul Qayum Kalay|32.433|66.883|1714
+AF|Kandahar|Abdul Rahaman|31.317|65.95|1040
+AF|Kandahar|Abdul Rahman|31.317|65.95|1040
+AF|Zabol|Abdul Salam|32.783|67.017|2652
+AF|Kandahar|Abdul Wahed|32.1|65.85|1509
+AF|Helmand|Abdul Wahed Kalay|31.083|64.2|716
+AF|Sare Pol|Abdulgan|35.8|66.717|2173
+AF|Helmand|Abdulghyas Kor|31.033|64.217|706
+AF|Helmand|Abdulhabib Kalay|30.717|64.1|674
+AF|Zabol|Abdulkader Kalay|32.2|67.25|1884
+AF|Paktika|Abdullah|32.65|68.783|2465
+AF|Herat|Abdullah Jan|34.95|61.683|925
+AF|Ghazni|Abdullah Kala|32.883|67.5|2315
+AF|Paktika|Abdullah Kala|32.067|68.1|2338
+AF|Zabol|Abdullah Kalay|32.8|67.033|2668
+AF|Zabol|Abdullah Kalay|32.617|66.7|2320
+AF|Kandahar|Abdullah Kalay|31.617|66.15|1171
